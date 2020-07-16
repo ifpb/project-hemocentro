@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50e728a1442adfb0f21667a1194f9042",
+    "revision": "e3703448148a36b7e319199b6efdb480",
     "url": "/project-hemovigilancia-front/index.html"
   },
   {
-    "revision": "dd48c52aea19bf98b52a",
+    "revision": "de4ed4ca7437a32542c6",
     "url": "/project-hemovigilancia-front/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/project-hemovigilancia-front/static/js/2.4717200d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd48c52aea19bf98b52a",
-    "url": "/project-hemovigilancia-front/static/js/main.56842848.chunk.js"
+    "revision": "de4ed4ca7437a32542c6",
+    "url": "/project-hemovigilancia-front/static/js/main.d050903b.chunk.js"
   },
   {
     "revision": "35781e9d4d2915c28e55",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/project-hemovigilancia-front/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/project-hemovigilancia-front/static/js/main.56842848.chunk.js",
-    "main.js.map": "/project-hemovigilancia-front/static/js/main.56842848.chunk.js.map",
+    "main.js": "/project-hemovigilancia-front/static/js/main.d050903b.chunk.js",
+    "main.js.map": "/project-hemovigilancia-front/static/js/main.d050903b.chunk.js.map",
     "runtime-main.js": "/project-hemovigilancia-front/static/js/runtime-main.13814ace.js",
     "runtime-main.js.map": "/project-hemovigilancia-front/static/js/runtime-main.13814ace.js.map",
     "static/js/2.4717200d.chunk.js": "/project-hemovigilancia-front/static/js/2.4717200d.chunk.js",
     "static/js/2.4717200d.chunk.js.map": "/project-hemovigilancia-front/static/js/2.4717200d.chunk.js.map",
     "index.html": "/project-hemovigilancia-front/index.html",
-    "precache-manifest.78719b61e6fb2e1fbf877c143ab73db2.js": "/project-hemovigilancia-front/precache-manifest.78719b61e6fb2e1fbf877c143ab73db2.js",
+    "precache-manifest.8e497faf9f629a6503803618e5c52bee.js": "/project-hemovigilancia-front/precache-manifest.8e497faf9f629a6503803618e5c52bee.js",
     "service-worker.js": "/project-hemovigilancia-front/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/project-hemovigilancia-front/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.4717200d.chunk.js.LICENSE.txt": "/project-hemovigilancia-front/static/js/2.4717200d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.13814ace.js",
     "static/js/2.4717200d.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.56842848.chunk.js"
+    "static/js/main.d050903b.chunk.js"
   ]
 }
