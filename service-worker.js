@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/project-hemovigilancia-front/precache-manifest.791281dc1d124fdb1ece0ed174faf083.js"
+  "/project-hemovigilancia-front/precache-manifest.6d9c6085158556f30a1b04dcf350ae39.js"
 );
 
 self.addEventListener('message', (event) => {
