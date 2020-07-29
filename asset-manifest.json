@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/project-hemovigilancia-front/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/project-hemovigilancia-front/static/js/main.9513ba8b.chunk.js",
-    "main.js.map": "/project-hemovigilancia-front/static/js/main.9513ba8b.chunk.js.map",
+    "main.css": "/project-hemovigilancia-front/static/css/main.9030340c.chunk.css",
+    "main.js": "/project-hemovigilancia-front/static/js/main.e2049058.chunk.js",
+    "main.js.map": "/project-hemovigilancia-front/static/js/main.e2049058.chunk.js.map",
     "runtime-main.js": "/project-hemovigilancia-front/static/js/runtime-main.13814ace.js",
     "runtime-main.js.map": "/project-hemovigilancia-front/static/js/runtime-main.13814ace.js.map",
-    "static/js/2.4717200d.chunk.js": "/project-hemovigilancia-front/static/js/2.4717200d.chunk.js",
-    "static/js/2.4717200d.chunk.js.map": "/project-hemovigilancia-front/static/js/2.4717200d.chunk.js.map",
+    "static/js/2.48a7f600.chunk.js": "/project-hemovigilancia-front/static/js/2.48a7f600.chunk.js",
+    "static/js/2.48a7f600.chunk.js.map": "/project-hemovigilancia-front/static/js/2.48a7f600.chunk.js.map",
     "index.html": "/project-hemovigilancia-front/index.html",
-    "precache-manifest.762fd30bfc17504b1dc782aa9cc87529.js": "/project-hemovigilancia-front/precache-manifest.762fd30bfc17504b1dc782aa9cc87529.js",
+    "precache-manifest.791281dc1d124fdb1ece0ed174faf083.js": "/project-hemovigilancia-front/precache-manifest.791281dc1d124fdb1ece0ed174faf083.js",
     "service-worker.js": "/project-hemovigilancia-front/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/project-hemovigilancia-front/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.4717200d.chunk.js.LICENSE.txt": "/project-hemovigilancia-front/static/js/2.4717200d.chunk.js.LICENSE.txt"
+    "static/css/main.9030340c.chunk.css.map": "/project-hemovigilancia-front/static/css/main.9030340c.chunk.css.map",
+    "static/js/2.48a7f600.chunk.js.LICENSE.txt": "/project-hemovigilancia-front/static/js/2.48a7f600.chunk.js.LICENSE.txt",
+    "static/media/medical.png": "/project-hemovigilancia-front/static/media/medical.9c7b7954.png"
   },
   "entrypoints": [
     "static/js/runtime-main.13814ace.js",
-    "static/js/2.4717200d.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.9513ba8b.chunk.js"
+    "static/js/2.48a7f600.chunk.js",
+    "static/css/main.9030340c.chunk.css",
+    "static/js/main.e2049058.chunk.js"
   ]
 }
