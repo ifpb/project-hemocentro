@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18b7386fe0cd85aa89a7614c464101ec",
+    "revision": "6b59288d01168826a5fd185d855d1dda",
     "url": "/project-hemovigilancia-front/index.html"
   },
   {
-    "revision": "4c9b6fe89dc8423456c7",
+    "revision": "1d2ebe2646cee6005401",
     "url": "/project-hemovigilancia-front/static/css/main.9030340c.chunk.css"
   },
   {
-    "revision": "07057abaae5a6401cd74",
-    "url": "/project-hemovigilancia-front/static/js/2.aadfd2cd.chunk.js"
+    "revision": "6aa846e19e065170c304",
+    "url": "/project-hemovigilancia-front/static/js/2.490b1994.chunk.js"
   },
   {
     "revision": "e2896a34bc173bbd7b6d83453e91d5e1",
-    "url": "/project-hemovigilancia-front/static/js/2.aadfd2cd.chunk.js.LICENSE.txt"
+    "url": "/project-hemovigilancia-front/static/js/2.490b1994.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c9b6fe89dc8423456c7",
-    "url": "/project-hemovigilancia-front/static/js/main.832f4012.chunk.js"
+    "revision": "1d2ebe2646cee6005401",
+    "url": "/project-hemovigilancia-front/static/js/main.ac9db4dd.chunk.js"
   },
   {
     "revision": "35781e9d4d2915c28e55",
